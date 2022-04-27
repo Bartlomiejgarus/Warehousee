@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\barte\\Source\\Repos\\Warehouse\\Magazyn\\Magazyn.csproj": {}
+    "C:\\Users\\barte\\source\\repos\\Warehouse\\Magazyn\\Magazyn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\barte\\Source\\Repos\\Warehouse\\Magazyn\\Magazyn.csproj": {
+    "C:\\Users\\barte\\source\\repos\\Warehouse\\Magazyn\\Magazyn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\barte\\Source\\Repos\\Warehouse\\Magazyn\\Magazyn.csproj",
+        "projectUniqueName": "C:\\Users\\barte\\source\\repos\\Warehouse\\Magazyn\\Magazyn.csproj",
         "projectName": "Magazyn",
-        "projectPath": "C:\\Users\\barte\\Source\\Repos\\Warehouse\\Magazyn\\Magazyn.csproj",
+        "projectPath": "C:\\Users\\barte\\source\\repos\\Warehouse\\Magazyn\\Magazyn.csproj",
         "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\barte\\Source\\Repos\\Warehouse\\Magazyn\\obj\\",
+        "outputPath": "C:\\Users\\barte\\source\\repos\\Warehouse\\Magazyn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
